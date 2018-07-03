@@ -1,6 +1,7 @@
 # Dom tree search 
 
-One Paragraph of project description goes here
+Tries find element from diff html file, that likes (has similar path) from original html file with 
+id attribute [make-everything-ok-button]
 
 ### Prerequisites
 
@@ -28,4 +29,4 @@ Use maven to run pom.xml tests
 
 * **Kryvko Sergii** - *develop*
 
-Git (https://github.com/your/project/contributors)
+Git https://github.com/KryvkoSergii/dom_analyser

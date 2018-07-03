@@ -40,7 +40,7 @@ public class JsoupFindByIdSnippetTest {
     public void originalAndForth() {
         String originalFile = "sample-0-origin.html";
         String diffFile = "sample-1-evil-gemini.html";
-        String originalId = "sample-4-the-mash.html";
+        String originalId = "make-everything-ok-button";
         test(originalFile, diffFile, originalId);
     }
 
