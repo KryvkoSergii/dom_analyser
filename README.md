@@ -17,6 +17,11 @@ Example:
 ```
 java -jar parser-1.0-SNAPSHOT.jar sample-0-origin.html sample-1-evil-gemini.html
 ```
+## Result
+path build as
+```
+root->html->body->div->div->div->div->div->div->a
+```
 ## Running the tests
 
 Use maven to run pom.xml tests
